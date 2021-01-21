@@ -19,7 +19,7 @@ Do you need more help? Visit my server here: **https://discord.gg/kQ8CE5GRNg** ð
 Q: Why is this Turkish?<br>
 A: Because this script shows the covid19 data of the Turkey.
 
-Q: How can i adjust this for my country<br>
+Q: How can i adjust this for my country?<br>
 A: Just change the url in **covid19_turkey.py**.
 
 # Optional tools
