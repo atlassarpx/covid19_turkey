@@ -2,7 +2,7 @@
   <img alt = "covid19_turkey" src = "https://i.hizliresim.com/vvyQM6.png" width = "750px">
 </p>
 
-Do you need more help? Visit my server here: **https://discord.gg/kQ8CE5GRNg** 🪐
+Do you need more help? Visit my server here: **https://discord.gg/kQ8CE5GRNg** 😷🦠
 
 ## Requirements
 - Python 3.6 and up - https://www.python.org/downloads/
